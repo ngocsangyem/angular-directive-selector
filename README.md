@@ -1,3 +1,5 @@
+[Angular Directive Selectors Can Do More Than You Think!](https://netbasal.com/angular-directive-selectors-can-do-more-than-you-think-7aefa4e6f30)
+
 # AngularDirectiveSelectorPractice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
